@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Digital-Clock/static/css/main.1e8dea63.css",
+    "main.js": "/Digital-Clock/static/js/main.93c8ccfc.js",
+    "static/js/787.78dd129a.chunk.js": "/Digital-Clock/static/js/787.78dd129a.chunk.js",
+    "static/media/watch.jpg": "/Digital-Clock/static/media/watch.de71827a02254e8cabc1.jpg",
+    "index.html": "/Digital-Clock/index.html",
+    "main.1e8dea63.css.map": "/Digital-Clock/static/css/main.1e8dea63.css.map",
+    "main.93c8ccfc.js.map": "/Digital-Clock/static/js/main.93c8ccfc.js.map",
+    "787.78dd129a.chunk.js.map": "/Digital-Clock/static/js/787.78dd129a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8dea63.css",
+    "static/js/main.93c8ccfc.js"
+  ]
+}
